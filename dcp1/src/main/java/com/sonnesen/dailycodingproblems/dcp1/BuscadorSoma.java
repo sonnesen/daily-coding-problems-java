@@ -1,4 +1,4 @@
-package com.sonnesen.dailycodignproblems.dcp1;
+package com.sonnesen.dailycodingproblems.dcp1;
 
 import java.security.InvalidParameterException;
 

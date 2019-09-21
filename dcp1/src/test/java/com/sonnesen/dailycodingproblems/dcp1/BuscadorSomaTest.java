@@ -9,8 +9,6 @@ import java.security.InvalidParameterException;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-import com.sonnesen.dailycodignproblems.dcp1.BuscadorSoma;
-
 class BuscadorSomaTest {
 
 	private BuscadorSoma buscador;
