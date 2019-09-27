@@ -7,5 +7,5 @@
 		<artifactId>dcp</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
-	<artifactId>dcp2</artifactId>
+	<artifactId>dcp3</artifactId>
 </project>
